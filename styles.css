@@ -21,11 +21,6 @@ body {
   height: 250px;
 }
 
-.testimonial > img {
-  height: 50px;
-  width: 50px;
-}
-
 .alternate-bg-color {
   background-color: #dbfadc;
 }
